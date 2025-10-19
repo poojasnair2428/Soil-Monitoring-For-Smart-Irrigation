@@ -1,8 +1,3 @@
-Absolutely 👍 Here’s a **professional and student-friendly version** of your GitHub README — clean, formal, and well-structured for a portfolio or academic submission.
-
----
-
-```{"variant":"standard","title":"README for Soil Monitoring for Smart Irrigation","id":"29407"}
 # 🌿 Soil Monitoring for Smart Irrigation
 
 This project presents a **smart irrigation system** based on the **ESP32 microcontroller** and **Blynk IoT platform**.  
