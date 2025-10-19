@@ -122,12 +122,16 @@ The main program performs the following:
 
 ## 👩‍💻 Contributers
 
--**Pooja S Nair**
--**Nidhi T Aneesh**
--**Anvi Elsa Vijo**
+**Pooja S Nair**
+
+**Nidhi T Aneesh**
+
+**Anvi Elsa Vijo**
 
 
 Electronics and Computer Engineering
+
+
 Smart IoT Project – Soil Monitoring for Smart Irrigation  
 
 ---
