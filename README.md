@@ -136,6 +136,3 @@ Smart IoT Project – Soil Monitoring for Smart Irrigation
 
 ---
 
-
-
-Would you like me to include a **diagram section (block or circuit diagram placeholders)** for your GitHub page too? It makes it look more complete for academic or competition submissions.
