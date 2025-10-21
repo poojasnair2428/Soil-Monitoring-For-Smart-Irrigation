@@ -129,7 +129,7 @@ The main program performs the following:
 
 ## Screenshots
 
-![WhatsApp Image 2025-10-20 at 22 56 34_7fdff47c](https://github.com/user-attachments/assets/efa48d8c-2b3a-42c9-8878-69d80a9e6b8b)
+
 ![WhatsApp Image 2025-10-20 at 22 56 34_800b73a6](https://github.com/user-attachments/assets/4fe1f00b-361a-4f60-aef5-9e41cfe9d08c)
 
 
