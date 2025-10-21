@@ -4,6 +4,13 @@ This project presents a **smart irrigation system** based on the **ESP32 microco
 It automatically monitors soil moisture levels and controls a water pump to maintain optimal soil hydration, promoting efficient water usage in agriculture.
 
 ---
+## DEMO
+
+
+
+https://github.com/user-attachments/assets/3f12792b-8302-407e-b9b1-f6138269d467
+
+
 
 ## 📘 Overview
 
